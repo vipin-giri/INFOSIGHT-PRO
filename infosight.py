@@ -930,6 +930,8 @@ def main():
 ██║██║ ╚████║██║     ╚██████╔╝███████║██║╚██████╔╝██║  ██║   ██║   
 ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
 """ + Colors.ENDC)
+       print(f"{Colors.BOLD}Advanced Information Disclosure Scanner with Web Crawling{Colors.ENDC}"
+             f"\nAuthor CIpher\n")
 
     parser = argparse.ArgumentParser(
         description="InfoSight - Advanced Information Disclosure Scanner with Web Crawling",
